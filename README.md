@@ -20,4 +20,4 @@ APIs Used- Dictionary API (https://api.dictionaryapi.dev/)
 Requirements- Python 3.x
 - requests library (install with pip install requests)
 
-GitHub Repositoryhttps://github.com/your-username/tito-chatbot
+GitHub Repository https://github.com/ayodelemofifoluwa/Simple-Chatbot
