@@ -1,4 +1,4 @@
-T.I.T.O - Simple ChatbotA simple chatbot that can greet, define words, search, and perform basic math operations.
+T.I.T.O - Simple ChatbotA simple chatbot that can greet, define words, search, and perform basic math operations on terminal.
 
 Features- Greet and farewell responses
 - Define words using Dictionary API
